@@ -1,0 +1,54 @@
+#banner {
+    background-color: blue;
+    min-height: 72vh;
+    background-image: url(./toy-story.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+}
+
+.banner {
+    position: fixed;
+    top: 200px;
+    right: 100px;
+    color: brown;
+    font-weight: bold;
+    font-size: 30px;
+    background-color:#5582c6;
+    
+}
+/* Container holding the image and the text */
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+  /* Centralizando texto */
+  .centro {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:white;
+    font-size: 20px;
+  }
+
+button {
+    position: absolute;
+    bottom: 10rem;
+    left: 20rem;
+    border: none;
+    outline: none;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    background-color:#5582c6;
+    color: white;
+    font-weight: 600;
+}
+
+a{
+    text-decoration: none;
+}

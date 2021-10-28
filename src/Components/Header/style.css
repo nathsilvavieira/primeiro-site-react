@@ -1,0 +1,23 @@
+#header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#5582c6;
+    height: 15vh;
+
+}
+
+#logo{
+    display: flex;
+    color: #000;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+nav a{ 
+    display: inline;
+  
+}
+.menu{
+ margin: 10px;
+}
