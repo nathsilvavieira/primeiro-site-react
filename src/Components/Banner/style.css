@@ -45,10 +45,11 @@ button {
     height: 30px;
     border-radius: 5px;
     background-color:#5582c6;
-    color: white;
-    font-weight: 600;
+    
 }
 
-a{
+button a{
     text-decoration: none;
+    color: white;
+    font-weight: 600;
 }

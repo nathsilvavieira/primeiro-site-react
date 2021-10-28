@@ -14,7 +14,7 @@ function App() {
   return (
     <>
     <Header/>
-    <Banner clique={clique}/>
+    <Banner clique ={clique}/>
     <Footer/>
     </>
   );
