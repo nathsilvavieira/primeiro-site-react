@@ -1,11 +1,11 @@
 #banner {
-    background-color: blue;
+    display: flex;
     min-height: 72vh;
     background-image: url(./toy-story.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
-    display: flex;
+    
 }
 
 .banner {
